@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sourav Moitra</title>
+    <link>https://souravmoitra.com/posts/</link>
+    <description>Recent content in Posts on Sourav Moitra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2023 23:32:07 +0530</lastBuildDate><atom:link href="https://souravmoitra.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://souravmoitra.com/posts/my-first-post/</link>
+      <pubDate>Mon, 15 May 2023 23:32:07 +0530</pubDate>
+      
+      <guid>https://souravmoitra.com/posts/my-first-post/</guid>
+      <description>Welcome Welcome to my site. I will be posting on Software Engineering, System design and DSA.</description>
+    </item>
+    
+  </channel>
+</rss>
